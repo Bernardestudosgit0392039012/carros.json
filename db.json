@@ -1,0 +1,81 @@
+{
+  "carros": [
+    {
+      "marca": "Fiat",
+      "modelo": "Uno",
+      "combustivel": ["Gasolina", "Álcool", "Flex"],
+      "anos": ["2022", "2021", "2020", "2019", "2018"],
+      "preco": [25000, 23000, 21000, 19000, 17000]
+    },
+    {
+      "marca": "Chevrolet",
+      "modelo": "Astra",
+      "combustivel": ["Gasolina", "Álcool", "Flex"],
+      "anos": ["2022", "2021", "2020", "2019", "2018"],
+      "preco": [35000, 33000, 31000, 29000, 27000]
+    },
+    {
+      "marca": "Chevrolet",
+      "modelo": "Onix",
+      "combustivel": ["Gasolina", "Álcool", "Flex"],
+      "anos": ["2022", "2021", "2020", "2019", "2018"],
+      "preco": [42000, 40000, 38000, 36000, 34000]
+    },
+    {
+      "marca": "Toyota",
+      "modelo": "Corolla",
+      "combustivel": ["Gasolina", "Flex"],
+      "anos": ["2022", "2021", "2020", "2019", "2018"],
+      "preco": [80000, 78000, 76000, 74000, 72000]
+    },
+    {
+      "marca": "Volkswagen",
+      "modelo": "Fusca",
+      "combustivel": ["Gasolina"],
+      "anos": ["1972", "1971", "1970", "1969", "1968"],
+      "preco": [30000, 28000, 26000, 24000, 22000]
+    },
+    {
+      "marca": "Honda",
+      "modelo": "Civic",
+      "combustivel": ["Gasolina", "Flex"],
+      "anos": ["2022", "2021", "2020", "2019", "2018"],
+      "preco": [60000, 58000, 56000, 54000, 52000]
+    },
+    {
+      "marca": "Volkswagen",
+      "modelo": "T-Cross",
+      "combustivel": ["Gasolina", "Flex"],
+      "anos": ["2022", "2021", "2020", "2019", "2018"],
+      "preco": [75000, 73000, 71000, 69000, 67000]
+    },
+    {
+      "marca": "Fiat",
+      "modelo": "Palio",
+      "combustivel": ["Gasolina", "Álcool", "Flex"],
+      "anos": ["2022", "2021", "2020", "2019", "2018"],
+      "preco": [32000, 30000, 28000, 26000, 24000]
+    },
+    {
+      "marca": "Ford",
+      "modelo": "Ecosport",
+      "combustivel": ["Gasolina", "Álcool", "Flex"],
+      "anos": ["2022", "2021", "2020", "2019", "2018"],
+      "preco": [55000, 53000, 51000, 49000, 47000]
+    },
+    {
+      "marca": "Chevrolet",
+      "modelo": "Vectra",
+      "combustivel": ["Gasolina", "Álcool", "Flex"],
+      "anos": ["2022", "2021", "2020", "2019", "2018"],
+      "preco": [40000, 38000, 36000, 34000, 32000]
+    },
+    {
+      "marca": "Peugeot",
+      "modelo": "203",
+      "combustivel": ["Gasolina"],
+      "anos": ["1974", "1973", "1972", "1971", "1970"],
+      "preco": [15000, 14000, 13000, 12000, 11000]
+    }
+  ]
+}
